@@ -7,7 +7,7 @@
 ### INSTALLATION
 * git clone https://github.com/0xbitx/Dedsec-Wifi-Troll.git
 * cd Dedsec-Wifi-Troll
-* sudo python3 dedsec-wifitroll.py
+* sudo ./dedsec-wifitroll
 
 ### TESTED ON FOLLOWING:
 * Kali Linux
