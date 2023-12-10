@@ -7,6 +7,7 @@
 ### INSTALLATION
 * git clone https://github.com/0xbitx/Dedsec-Wifi-Troll.git
 * cd Dedsec-Wifi-Troll
+* chmod +x dedsec-wifitroll
 * sudo ./dedsec-wifitroll
 
 ### TESTED ON FOLLOWING:
